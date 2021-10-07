@@ -1,0 +1,51 @@
+body {
+	
+    padding: 0;
+    margin: 0;
+    background-color: rgb(71, 70, 70);
+    
+
+}
+#contenedor {
+	width: 100%;
+    
+
+	background: #8FA68E;
+   padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    
+
+
+}
+nav {
+	background: #ddcf54;
+	float: none;
+	width: 100%;
+    padding: 5px;
+}
+ul {
+	list-style-type:none;
+}
+a {
+	color: black;
+	text-decoration: none;
+  
+}
+section {
+	background: #F1F2C0;
+	float: none;
+	margin: 0 0 0 0px;
+	width: 100%;
+    padding: 2%;
+    border-top: solid black;
+    border-bottom: solid black;
+    border-width: thin;
+    
+}
+aside {
+	background: #a09e92;
+	float: none;
+	width: 100%;
+    padding: 2%;
+}
